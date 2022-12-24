@@ -2,7 +2,7 @@
   "magisk": {
     "version": "18e2697d",
     "versionCode": "25202",
-    "link": "https://cdn.jsdelivr.net/gh/datnerdguy/Magisk@v25.2.1/Magisk-v25.2.1.apk",
+    "link": "https://cdn.jsdelivr.net/gh/prango71/magisk-files/app-release.apk",
     "note": "https://cdn.jsdelivr.net/gh/datnerdguy/Magisk@v25.2.1/notes.md"
   }
 }
